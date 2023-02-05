@@ -13,7 +13,7 @@
 ```
 
 -    I’m interested in information technology, music (psybient & spacewave are my current favs), philosophy, crypto/blockchain, economics, personal sovereignty, privacy/security, FOSS, history, wellness, expanding consciousness...
--    I'm a Software Engineering Student
+-    I'm a Software Engineer & Designer
 -    I know CSS, HTML, Javascript, "Linux", Zsh & Beyond
 -    I’m currently learning: React, Next.js, Typescript, Tailwind CSS & More
 - 📫 How to reach me: github@tia.maureen.email
