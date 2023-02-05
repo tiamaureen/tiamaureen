@@ -1,4 +1,4 @@
-# 👋 Hello y'all! I’m @tiamaureen
+# 👋 Welcome y'all! I’m @tiamaureen
 
 ```
 
@@ -12,7 +12,8 @@
                     
 ```
 
--    I’m interested in information technology, music (psybient and spacewave are my current favs), philosophy, crypto/blockchain, economics, personal sovereignty, privacy/security, FOSS, history, wellness, expanding consciousness...
+-    I’m interested in information technology, music (psybient & spacewave are my current favs), philosophy, crypto/blockchain, economics, personal sovereignty, privacy/security, FOSS, history, wellness, expanding consciousness...
 -    I'm a Software Engineering Student
--    I’m currently learning: CSS, JavaScript, and Bitwig
+-    I know CSS, HTML & Javascript
+-    I’m currently learning: Next.js, Typescript, Tailwind CSS
 - 📫 How to reach me: github@tia.maureen.email
