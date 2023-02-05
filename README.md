@@ -18,4 +18,4 @@
 -    I’m currently learning: Next.js, Typescript, Tailwind CSS & More
 - 📫 How to reach me: github@tia.maureen.email
 -    Twitter: https://twitter.com/tiamaureen_dev
--    Linkedin: https://www.linkedin.com/
+-    Linkedin: https://www.linkedin.com/in/tiamaureen/
