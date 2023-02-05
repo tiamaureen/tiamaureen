@@ -17,5 +17,5 @@
 -    I know CSS, HTML, Javascript, "Linux", Zsh & Beyond
 -    I’m currently learning: React, Next.js, Typescript, Tailwind CSS & More
 - 📫 How to reach me: github@tia.maureen.email
--    Twitter: https://twitter.com/tiamaureen_dev
+-    Twitter: https://twitter.com/tiamaureen_dev/
 -    Linkedin: https://www.linkedin.com/in/tiamaureen/
